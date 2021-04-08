@@ -3,7 +3,7 @@ package entities;
 public class Vagas {
 	public String Nome;
 	public Long Codigo;
-	public List<Candidatos> Candidatos 
+	public List<CandidatosRegister> Candidatos 
 	
 	
 	
