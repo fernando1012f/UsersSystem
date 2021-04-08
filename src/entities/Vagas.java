@@ -1,8 +1,10 @@
 package entities;
 
 public class Vagas {
-	public String vaga;
-
+	public String Nome;
+	public Long Codigo;
+	public List<Candidatos> Candidatos 
+	
 	
 	
 	public Vagas(String vaga) {
